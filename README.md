@@ -14,6 +14,13 @@
     In simple words, it is a Hypertext Markup Language which is use to dictate or instruct the web browser for static or dynamic web pages 
 </pre> </p>
 
-# The format of this implementation is to follow a utorial with lots of modification in order to learn and adapt{ usually think-out-of-the-box} -- followed by the exercises
+# The format of this implementation is to follow a tutorial -- followed by the exercises
 
 # So to begin with, I am creating a file named index.html
+Wrote my Hello world-- Demonstrating Boiler plate code and then save, run the code using any web browser of your choice[Here, I am using Google chrome] 
+
+<strong>Note:</strong> Using live server extension in VS code automates the manual refreshing
+
+HTML Basics -- Hello World, Button tag, Link tag
+
+
