@@ -24,3 +24,7 @@ Wrote my Hello world-- Demonstrating Boiler plate code and then save, run the co
 HTML Basics -- Hello World, Button tag, Link tag
 
 
+Now that we have glanced about html we can move on to css[the main focus of this project]
+Since I am tutotrial -- using a tools for exercising is buttons exercise from supersimple.dev website 
+
+
